@@ -9,3 +9,5 @@ The controller is powered by an M5 Atom Lite (about $10), which requires an exte
 From the accompanying ULN2003 driver board, I only use the driver IC, which I desolder and mount onto a custom PCB (see Fritzing layout). I also designed several custom parts for 3D printing (see .stl files). The build additionally uses a 2 mm shaft and two screws from a shaft collar.
 
 Finally, a few small adjustments to the original cat flap housing are necessary to ensure that all moving parts operate freely.
+
+https://youtu.be/ug-eX6cvsHM
