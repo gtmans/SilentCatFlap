@@ -10,6 +10,6 @@ From the accompanying ULN2003 driver board, I only use the driver IC, which I mo
 
 Finally, a few small adjustments to the original cat flap housing are necessary to ensure that all moving parts operate freely.<BR>
 
-tiny video: https://youtu.be/TwItX0s3qm8 <BR><BR>
+tiny video: https://youtu.be/TwItX0s3qm8 <BR>Tinkercad model: https://www.tinkercad.com/things/aXRrV4Vo9WM-silentcatflap-parts-shared <BR><BR>
 <img src="https://github.com/gtmans/SilentCatFlap/blob/main/SCF_3D_assembly.png" width="450" align="right"/>
 <img src="https://github.com/gtmans/SilentCatFlap/blob/main/SCF_schematic.png" width="250" align="left"/>
